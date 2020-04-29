@@ -67,7 +67,7 @@ class ViewController: UIViewController {
             return "Good shoot."
         }
         
-        return "You suck men!"
+        return "You suck man!"
     }
     
     func styleSlider() {
